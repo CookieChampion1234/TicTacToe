@@ -1,0 +1,82 @@
+html {
+    background-color: beige;
+    position: fixed;
+}
+
+button {
+    position: fixed;
+    font-size: 50px;
+    width: 150px;
+    height: 150px;
+    background-color: white;
+}
+
+img {
+    position: fixed;
+    width: 550px;
+    height: 550px;
+    left: 525px;
+    top: 275;
+}
+
+#one {
+    top: 300px;
+    left: 570px;
+}
+
+#two {
+    top: 300px;
+    left: 730px;
+}
+
+#three {
+    top: 300px;
+    left: 885px;
+}
+
+#four {
+    top: 460px;
+    left: 570px;
+}
+
+#five {
+    top: 460px;
+    left: 730px;
+}
+
+#six {
+    top: 460px;
+    left: 885px;
+}
+
+#seven {
+    top: 620px;
+    left: 570px;
+}
+
+#eight {
+    top: 620px;
+    left: 730px;
+}
+
+#nine {
+    top: 620px;
+    left: 885px;
+}
+
+h1{
+    position: fixed;
+    top: 200px;
+    left: 700px;
+    font-variant: small-caps;
+    font-size: xx-large;
+}
+
+#restart{
+    width: 100px;
+    height: 50px;
+    background-color: red;
+    font-size: large;
+    top: 850px;
+    left: 750px;
+}
